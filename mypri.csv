@@ -1,0 +1,33 @@
+mykey,myvalue
+CIA,"Confidentiality, Integrity, Availability"
+Secure software,Least privilege
+Secure software,Defense in depth
+NICE framework,"securely provision, operate and maintain, protect and defend, investigate"
+NICE,"analyze, oversee, govern"
+securely provision,develop secure software
+System requirements planning,draw from stakeholders and laws
+Securely provision:,Software that's designed to support controls of GDPR
+System architecture design,Which technologies are needed and how tasks or data are organized
+System architecture design,"System that has users from multiple countries, partitions a database into multiple databases to comply with privacy law specifying where data of country's nationals are held"
+Software development,Turning system requirements and architrcture into a functioning system
+Test and evaluation:,the system's components and the system as a whole meet requirements 
+system development,"gather requirements, test the finished system, subdivide the phases of taasks"
+Risk management,"identify, document and manage system's risks"
+Risks related to software quality,"Risks defined by internal standards, regulations, security and privacy"
+Securely provision,"System requirements planning, design system architecture, R&D, software development, test and eval"
+Securely provision,System dev and risk management
+Operate and maintain,systems admin
+Operate and maintain,Systems admin and network services
+Operate and maintain,"Sysadmin, netadmin, customer service, IT support"
+Operate and maintain,"sysadmin, netadmin, customer service, IT support, data admin, analysis of systems interoperating, knowledge management"
+Knowledge management,tracking the system creation and operation
+protect and defend,vulnerability assessment and management
+protect and defend,cyber defense infrastructure support
+protect and defend,"infrastructure defense, defense analysis, incident response"
+incident response,documenting attack details and determining impact and remediation
+remediation,"restore the system, notify affected users, plans to fix vulnerabilities"
+Trade off between privacy and security,Collect more data to detect attacks vs. collect more data to misuse against users - mitigate by anonymization
+Investigate,"Identify the compromised data, the method of compromise, and who was the compromiser"
+Oversee and govern,"Legal advice, leadership, training"
+Collect and operative and analyze,"intel on attackers' capabilities, intentions and activities"
+input validation flaw attacks,"XSS, SQL injection"
